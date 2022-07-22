@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ### This is RongFangyan AKA DarkCodeMaster!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DarkCodeMaster)
+[![Blog](https://img.shields.io/badge/-Blog-000?style=flat&logo=Github&logoColor=white)](https://darkcodemaster.github.io/)
 [![Tencent QQ](https://img.shields.io/badge/-QQMail-c14438?style=flat&logo=tencentqq&logoColor=white)](mailto:rfy1997@qq.com)
 
 Welcome to my Github page! I am RongFangyan and I am working on a contractor company to survive!  
