@@ -1,14 +1,14 @@
 ### Hi there 👋 
-### This is Fernando Roldán!
+### This is RongFangyan AKA DarkCodeMaster!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/DarkCodeMaster)
 [![Tencent QQ](https://img.shields.io/badge/-QQMail-c14438?style=flat&logo=tencentqq&logoColor=white)](mailto:rfy1997@qq.com)
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
-<img align="right" alt="img" src="https://github.com/DarkCodeMaster/DarkCodeMaster/blob/master/cover_image.jpg" width="50%" height="auto" />
+Welcome to my Github page! I am RongFangyan and I am working on a contractor company to survive!  
+<img align="right" alt="img" src="https://github.com/DarkCodeMaster/DarkCodeMaster/blob/main/wallhaven-dgrgql.jpg" width="50%" height="auto" />
 
 #### 🌱 Things I am currently working on: 
-- Learn golang for Web develop
+- Learn golang
 - Practice my poor English
 
 #### :muscle: Things I am challenging myself with:
